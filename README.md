@@ -11,4 +11,4 @@ This is a simple calculator app built using the KivyMD library. It allows you to
 1. Clone the repository:
 
    ```shell
-   git clone <repository_url>
+   git clone https://github.com/BilalSardar009/Calculator-Kivy-APP.git
